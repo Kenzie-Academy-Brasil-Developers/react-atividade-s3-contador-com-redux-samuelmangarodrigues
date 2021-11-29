@@ -1,0 +1,18 @@
+.Btns {
+  margin: 10px;
+  width: 250px;
+  background-color: rgba(255, 255, 255, 0.438);
+  color: rgb(224, 220, 220);
+  border: 1px solid black;
+  font-family: "Titillium Web", sans-serif;
+  font-size: 25px;
+}
+.Btns:hover {
+  background-color: white;
+  color: black;
+  transition: 0.5s;
+}
+h1 {
+  font-family: "Titillium Web", sans-serif;
+  color: lightpink;
+}
